@@ -1,8 +1,14 @@
-<p align="left">
+
+## 🏆 My LeetCode Profile
+
+<p align="center">
   <a href="https://leetcode.com/u/C6jDRYmxHW/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://leetcard.jacoblin.cool/C6jDRYmxHW?theme=dark&font=Baloo&ext=contest" alt="Sai Teja's LeetCode Stats" />
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/C6jDRYmxHW/">
+    <img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
